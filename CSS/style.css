@@ -1,0 +1,33 @@
+h1{
+    color: teal;
+    background-color: yellow;
+    font-style: inherit;
+}
+
+body{
+    font-size:20px;
+    text-align:center;
+}
+h1{font-size:30px;}
+
+img{width:200px;
+    height:150px;
+}
+
+li:nth-child(odd){
+color:aqua;
+font-style: italic;
+background-color: slategray;
+
+}
+
+li:nth-child(even){
+    color:royalblue;
+    background-color: tomato;
+
+}
+
+h4{
+    font-size: larger;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
